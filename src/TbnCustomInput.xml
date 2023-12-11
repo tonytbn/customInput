@@ -21,6 +21,8 @@
                 <description />
                 <attributeTypes>
                     <attributeType name="String" />
+                    <attributeType name="Integer" />
+                    <attributeType name="Decimal" />
                 </attributeTypes>
             </property>
             <property key="prefix" type="string">
