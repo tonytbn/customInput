@@ -37,6 +37,14 @@
                 <caption>placeHolder string</caption>
                 <description>placeHolder string</description>
             </property>
+            <property key="disabled" type="boolean" defaultValue="false">
+                <caption>disabled</caption>
+                <description>read only</description>
+            </property>
+            <property key="onChangeAct" type="action">
+	            <caption>On Change</caption>
+	            <description>When event change trigger</description>
+            </property>
         </propertyGroup>
     </properties>
 </widget>
